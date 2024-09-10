@@ -26,6 +26,19 @@ h2 {
   text-align: center;
 }
 
+.description {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.link-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
 .software-link {
   display: block;
   padding: 15px 25px;
@@ -34,7 +47,6 @@ h2 {
   text-decoration: none;
   border-radius: 5px;
   text-align: center;
-  margin: 0 auto;
   width: fit-content;
   transition: background-color 0.3s ease;
 }
@@ -67,6 +79,6 @@ h2 {
 
 @media (max-width: 768px) {
   .box {
-      padding: 20px;
+    padding: 20px;
   }
 }
