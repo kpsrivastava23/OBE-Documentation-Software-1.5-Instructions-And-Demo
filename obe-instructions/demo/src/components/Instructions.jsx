@@ -30,15 +30,8 @@ const Instructions = () => {
     {
       text: 'View data as per your choice',
       image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985631/obe%20documentation/dzgttpav75wqwe4cyizr.png'
-    },
-    {
-      text: 'Go to coordinator mapping',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985641/obe%20documentation/crpgzftijpldu4f1wfht.png'
-    },
-    {
-      text: 'Select a course and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725979674/eduqqz74amqocabnrcnb.png'
     }
+
   ];
 
   return (
