@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,6 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://kpsrivastava23.github.io/OBE-Documentation-Software-1.5-Instructions-And-Demo"
-
+  "homepage": "https://kpsrivastava23.github.io/OBE-Documentation-Software-1.5-Instructions-And-Demo",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
