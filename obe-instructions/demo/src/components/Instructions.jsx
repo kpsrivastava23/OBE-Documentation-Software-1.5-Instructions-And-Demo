@@ -74,47 +74,7 @@ const Instructions = () => {
     },{
       text: '',
       image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1726949346/coordinator/kbmvmhpyb5qe5qsv9kzd.png'
-    },{
-      text: 'effeffe',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1726949346/coordinator/qokzdiqj0ww6a0t2jfvf.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
-    },{
-      text: 'Select course,year,sem,subject and assign coordinators for the same',
-      image: 'https://res.cloudinary.com/dt781mebk/image/upload/v1725985660/obe%20documentation/yozcjfvmjvsflua80fpg.png'
     }
-
 
 
   ];
