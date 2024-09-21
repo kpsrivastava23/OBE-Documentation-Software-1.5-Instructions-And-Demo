@@ -26,11 +26,16 @@ h2 {
   text-align: center;
 }
 
-.description {
+.description,
+.project-overview,
+.obe-explanation,
+.how-it-works,
+.features-list,
+.achievements-list {
   font-size: 16px;
   color: #333;
   margin-bottom: 30px;
-  text-align: center;
+  text-align: justify;
 }
 
 .link-container {
