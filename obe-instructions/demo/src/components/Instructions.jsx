@@ -123,7 +123,9 @@ const Instructions = () => {
         <h3>Achievements:</h3>
         <ul className="achievements-list">
           <li><strong>Academic Excellence:</strong> The software earned an A+ grade in the 6th Semester of EVEN SEM 2024.</li>
-          <li><strong>Funding Secured:</strong> Successfully obtained funding for purchasing a Render database for deployment.</li>
+          <li><strong>Funding Secured:</strong> Successfully obtained funding for purchasing a MongoDB Atlas database for deployment, opting for a serverless model at $0.10 per million reads.
+
+</li>
           <li><strong>Deployment:</strong> Currently in testing, with plans for rollout at JIIT in the near future.</li>
         </ul>
         <h2>Instructions and Working Demo</h2>
