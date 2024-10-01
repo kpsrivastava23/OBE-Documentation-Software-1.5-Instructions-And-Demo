@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/css/main.4268369f.css",
-    "main.js": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/main.8d8235e9.js",
+    "main.js": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/main.bfb54506.js",
     "static/js/453.1b6cbde4.chunk.js": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/453.1b6cbde4.chunk.js",
     "index.html": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/index.html",
     "main.4268369f.css.map": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/css/main.4268369f.css.map",
-    "main.8d8235e9.js.map": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/main.8d8235e9.js.map",
+    "main.bfb54506.js.map": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/main.bfb54506.js.map",
     "453.1b6cbde4.chunk.js.map": "/OBE-Documentation-Software-1.5-Instructions-And-Demo/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4268369f.css",
-    "static/js/main.8d8235e9.js"
+    "static/js/main.bfb54506.js"
   ]
 }
